@@ -1,2 +1,2 @@
 # lessy
- uma i.a  em pyton
+ um teste de I.A
